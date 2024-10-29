@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create user","user creation test","PENDING","2024-10-28T15:15:45.2787601-05:00[America/Bogota]","0.0","1.24"
+"Create user","user creation test","SUCCESS","2024-10-29T13:01:50.6621955-05:00[America/Bogota]","0.0","15.96"
+"Create user","Login test","SUCCESS","2024-10-29T13:02:06.7885487-05:00[America/Bogota]","0.0","22.51"
+"Create user","Add an item to the shopping cart","SUCCESS","2024-10-29T13:02:29.3868049-05:00[America/Bogota]","0.0","8.28"

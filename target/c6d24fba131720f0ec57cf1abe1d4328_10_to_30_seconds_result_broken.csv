@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create user","user creation test","ERROR","2024-10-29T10:05:31.7763274-05:00[America/Bogota]","0.0","11.4"
+"Create user","Login test","ERROR","2024-10-29T10:05:43.4326589-05:00[America/Bogota]","0.0","4.55"
+"Create user","Add an item to the shopping cart","ERROR","2024-10-29T10:05:48.2112609-05:00[America/Bogota]","0.0","6.93"
